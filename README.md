@@ -1,5 +1,7 @@
-# How tall are you
+# How tall are you?
 ## Simply measure it with Calliope Mini and an Ultrasonic range Sensor
+![Calliope Mini with Grove Ultrasonic Range Sensor](https://github.com/crismancich/Calliope-How-tall-are-you-/raw/master/Messlatte%20Calliope.jpg)
+
 
 Here's the code in the editor. https://makecode.com/_fULVm79pRcUw
 Alternatively, the code provided here is meant to be used in JavaScript Mode in https://makecode.calliope.cc
